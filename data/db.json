@@ -1,0 +1,49 @@
+{
+  "Heroes": [
+    {
+      "name": "Spiderman",
+      "advantage": "Web Thrower",
+      "id": "1"
+    },
+    {
+      "name": "Captain America",
+      "advantage": "Shield",
+      "id": "2"
+    },
+    {
+      "name": "iron man",
+      "advantage": "suit",
+      "id": "3"
+    },
+    {
+      "name": "Batman",
+      "advantage": "powerful weapons",
+      "id": "4"
+    },
+    {
+      "name": "Captain Marvel",
+      "advantage": "Flight",
+      "id": "5"
+    },
+    {
+      "name": "Superman",
+      "advantage": "jump",
+      "id": "6"
+    },
+    {
+      "name": "strange",
+      "advantage": "teleport",
+      "id": "7"
+    },
+    {
+      "name": "Wanda",
+      "advantage": "magic",
+      "id": "8"
+    },
+    {
+      "name": "Wonder Women",
+      "advantage": "fly",
+      "id": "9"
+    }
+  ]
+}
